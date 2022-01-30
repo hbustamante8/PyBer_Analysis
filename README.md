@@ -23,14 +23,15 @@ Below is an image the graph that shows the total fare by city type from January 
 
 ## Summary
 
-Below are some recommnedations that should be taken into consideration so that PyBer can continue to enhance their revenue and provide the most value to riders in all city types
+Below are some recommnedations that should be taken into consideration so that PyBer can continue to enhance their revenue and provide the most value to riders in all city types.
+
 ### Recommendations
 
-The first recommendation  is to increase the amount of drivers in the rural cities. The low amount of drivers is casusing for the average fare per ride is  high which seems to push riders away. Riders have alternative services such as other ridesharing apps, taxis, public transport, etc. To get the most out of rural, there should be a campaign or focus to bring in new drivers to that area. Especially since the average far per dirver is high compared to the other city types.
+The first recommendation  is to increase the amount of drivers in the rural cities. The low amount of drivers is casusing the average fare per ride is high which seems to push riders away. Riders have alternative services such as other ridesharing apps, taxis, public transport, etc. To get the most out of rural rides, there should be a campaign or focus to bring in new drivers to that area. Especially since the average far per dirver is high compared to the other city types.
 
-Secondly, suburban drivers should be increased as well. From the urban metrics, you can see that the total drivers exceed the total amount of rides and has led a lot of money brought in. Therefore, there should also be a target to get more drivers in the suburban city to help drive down the price a bit as well as the average fare per driver. 
+Secondly, suburban drivers should be increased as well. From the urban city type metrics, it can be intepreted that the total drivers exceed the total amount of rides and has led a lot of money brought in. Therefore, there should also be a target to get more drivers in the suburban city to help drive down the price a bit as well as the average fare per driver. Suburban rides are not being reached to their full potential and total fares would drive up if there more drivers to meet the needs of riders.
 
-Lastly, for urban city type, there should be uncrease in the price of the ride by a small margin. The average fare per dirver is very low and overtime or  in the near future may become unfavorable for the drivers. This will cause them to drive for other ridesharing services who provide a more favorable percentage rate for a driver in the same area.
+Lastly, for urban city type, there should be an increase in the price of the ride by a small margin. The average fare per dirver is very low and overtime or in the near future may become unfavorable for the drivers. This will cause them to drive for other ridesharing services who provide a more favorable percentage rate for a driver in the same area.
 
 ### Final remarks
 
