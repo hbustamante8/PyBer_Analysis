@@ -21,6 +21,10 @@ The data frame visual below is a summary of the key metrics between the differen
 
 
 
+
+### Graph results
+
+The graph portrays a similar story to the summary data frame. Urban rides bring in the most total number of fares consistently. Meanwhile, Rural brings in the lowest number of total fares on a consistent basis. Interestingly, all three city types had a high total number of fares for the third week of February. Finally, Suburban rides had the biggest increase from the start of January to end of April compared to the other city types. Rides in Suburban seem to be on a trend to increase after April. Thus, a solid city type to build on for the number of rides to get closer to Urban total fares.
 Below is an image the graph that shows the total fare by city type from January to the end of April.
 
 ![image](https://user-images.githubusercontent.com/96553992/151707887-ebb736e7-1457-4b8c-bb58-fe90fed0587e.png)
