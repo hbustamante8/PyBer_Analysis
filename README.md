@@ -10,6 +10,7 @@ The purpose of this project is to analyze data for PyBer, a python-based ride sh
 ## Results
 
 
+### Summary Data Frame results
 Using Jupyter notebook and the Pandas library, a summary data frame was created that shows the metrics between the three city types. Urban rides had the most total number of rides by a huge margin. Rural metrics revealed that there were only 125 rides compared to Urban's 1,625. It is important to note that while Rural had the least number of total rides, they also had the least number of drivers. Urban rides also had the greatest number of total drivers while Suburban came in second place for both categories. The average fare per ride was the highest for Rural rides with Suburban coming in second place. The average fare per driver highlighted hat Urban was the lowest for that metric. Rural has the highest average fare per driver while again Suburban came in second. Finally, 'Total Fares', were highest for Urban rides followed by Suburban and lastly Rural. The most revenue for Pyber therefore comes from Urban rides according to all the data available.
 
 The data frame visual below is a summary of the key metrics between the different city types.
