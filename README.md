@@ -13,7 +13,9 @@ Using jupyter notebook and the pandas library, a summary dataframe was created t
 
 The data frame visual below is a summary of the key metrics between the different city types.
 
-![image](https://user-images.githubusercontent.com/96553992/151706728-2ce9a738-ba5e-44d7-8c8a-fc981582767d.png)
+
+
+     ![image](https://user-images.githubusercontent.com/96553992/151706728-2ce9a738-ba5e-44d7-8c8a-fc981582767d.png)
 
 
 
